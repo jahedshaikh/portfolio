@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.first {
+  background-color: grey;
+  text-align: center;
+  color: purple;
+}
+.font {
+  font-size: 30px;
+}
+
+.main {
+  margin-bottom: 40px;
+
+}
+.input {
+  margin-top: 10px;
+  height: 30px;
+  width: 350px;
+}
+footer {
+  background-color: rgb(176, 174, 174)
+}
+li a img {
+  height: 50px;
+}
+li {
+  display: inline;
+}
+h4 {
+  margin-top: 5px;
+  font-size: 20px;
+}
+.main img{
+  height: 150px;
+}
